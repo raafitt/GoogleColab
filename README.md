@@ -1,2 +1,1 @@
-# RNN
-recurrent neural networks.
+#Colab
